@@ -1,0 +1,12 @@
+C:\Users\ihopj\source\repos\LibertyTreeTavern2\LibertyTreeTavern2\bin\Debug\LibertyTreeTavern2.exe.config
+C:\Users\ihopj\source\repos\LibertyTreeTavern2\LibertyTreeTavern2\bin\Debug\LibertyTreeTavern2.exe
+C:\Users\ihopj\source\repos\LibertyTreeTavern2\LibertyTreeTavern2\bin\Debug\LibertyTreeTavern2.pdb
+C:\Users\ihopj\source\repos\LibertyTreeTavern2\LibertyTreeTavern2\obj\Debug\LibertyTreeTavern2.csprojAssemblyReference.cache
+C:\Users\ihopj\source\repos\LibertyTreeTavern2\LibertyTreeTavern2\obj\Debug\LibertyTreeTavern2.Form1.resources
+C:\Users\ihopj\source\repos\LibertyTreeTavern2\LibertyTreeTavern2\obj\Debug\LibertyTreeTavern2.Properties.Resources.resources
+C:\Users\ihopj\source\repos\LibertyTreeTavern2\LibertyTreeTavern2\obj\Debug\LibertyTreeTavern2.csproj.GenerateResource.cache
+C:\Users\ihopj\source\repos\LibertyTreeTavern2\LibertyTreeTavern2\obj\Debug\LibertyTreeTavern2.exe
+C:\Users\ihopj\source\repos\LibertyTreeTavern2\LibertyTreeTavern2\obj\Debug\LibertyTreeTavern2.pdb
+C:\Users\ihopj\source\repos\LibertyTreeTavern2\LibertyTreeTavern2\obj\Debug\LibertyTreeTavern2.Form2.resources
+C:\Users\ihopj\source\repos\LibertyTreeTavern2\LibertyTreeTavern2\obj\Debug\LibertyTreeTavern2.Form3.resources
+C:\Users\ihopj\source\repos\LibertyTreeTavern2\LibertyTreeTavern2\obj\Debug\LibertyTreeTavern2.Form4.resources
